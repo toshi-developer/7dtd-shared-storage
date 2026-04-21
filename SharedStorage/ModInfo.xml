@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <Name value="SharedStorage"/>
+    <DisplayName value="Shared Storage"/>
+    <Version value="1.0.0"/>
+    <Description value="Allows multiple players to open and access the same storage container simultaneously in multiplayer."/>
+    <Author value="ToshiDev"/>
+    <Website value="https://github.com/toshi-developer/7dtd-shared-storage"/>
+</xml>

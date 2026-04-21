@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LzU2ZxAbuQ4=",
+  "success": true,
+  "projectFilePath": "/workspaces/cursor-side/projects/mod/7dtd-shared-storage/SharedStorage/SharedStorage.csproj",
+  "expectedPackageFiles": [
+    "/home/vscode/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.3/microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "/home/vscode/.nuget/packages/microsoft.netframework.referenceassemblies.net48/1.0.3/microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

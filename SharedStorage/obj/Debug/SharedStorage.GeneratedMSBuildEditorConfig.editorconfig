@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = SharedStorage
+build_property.ProjectDir = /workspaces/cursor-side/projects/mod/7dtd-shared-storage/SharedStorage/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

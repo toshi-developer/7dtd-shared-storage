@@ -1,0 +1,9 @@
+/workspaces/cursor-side/projects/mod/7dtd-shared-storage/SharedStorage/bin/SharedStorage.dll
+/workspaces/cursor-side/projects/mod/7dtd-shared-storage/SharedStorage/bin/SharedStorage.pdb
+/workspaces/cursor-side/projects/mod/7dtd-shared-storage/SharedStorage/obj/Debug/SharedStorage.csproj.AssemblyReference.cache
+/workspaces/cursor-side/projects/mod/7dtd-shared-storage/SharedStorage/obj/Debug/SharedStorage.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/cursor-side/projects/mod/7dtd-shared-storage/SharedStorage/obj/Debug/SharedStorage.AssemblyInfoInputs.cache
+/workspaces/cursor-side/projects/mod/7dtd-shared-storage/SharedStorage/obj/Debug/SharedStorage.AssemblyInfo.cs
+/workspaces/cursor-side/projects/mod/7dtd-shared-storage/SharedStorage/obj/Debug/SharedStorage.csproj.CoreCompileInputs.cache
+/workspaces/cursor-side/projects/mod/7dtd-shared-storage/SharedStorage/obj/Debug/SharedStorage.dll
+/workspaces/cursor-side/projects/mod/7dtd-shared-storage/SharedStorage/obj/Debug/SharedStorage.pdb
